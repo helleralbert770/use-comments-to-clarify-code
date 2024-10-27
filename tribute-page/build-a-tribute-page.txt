@@ -1,0 +1,37 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Memory Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main id="main">
+        <div id="title">Memory of Dr. Norman Borlaug</div>
+        
+        <figure id="img-div">
+            <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Norman_Borlaug%2C_2004_%28cropped%29.jpg" alt="Dr. Norman Borlaug" style="display: block; max-width: 100%;">
+
+            <figcaption id="img-caption">Dr. Norman Borlaug, father of the Green Revolution</figcaption>
+        </figure>
+        
+        <div id="tribute-info">
+            <p>Dr. Norman Ernest Borlaug (March 25, 1914 – September 12, 2009) was an American agronomist who led initiatives worldwide that contributed to the extensive increases in agricultural production termed the Green Revolution. Borlaug was awarded multiple honors for his work, including the Nobel Peace Prize, the Presidential Medal of Freedom, and the Congressional Gold Medal.</p>
+        </div>
+        
+        <a id="tribute-link" href="https://en.wikipedia.org/wiki/Norman_Borlaug" target="_blank">Learn more about Dr. Norman Borlaug</a>
+    </main>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
